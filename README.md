@@ -15,7 +15,7 @@ Good afternoon, everyone. Now I will tell you about a young and promising, but o
     <div style="flex: 1; padding: 10px;">
         <h4>Farcaster | Active🟢</h4>
         <ul>
-            <li><a href="#">Docs link]</a></li>
+            <li><a href="#">Docs link</a></li>
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
