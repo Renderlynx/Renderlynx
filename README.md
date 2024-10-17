@@ -13,10 +13,9 @@ Good afternoon, everyone. Now I will tell you about a young and promising, but o
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; padding: 10px;">
-        <h4>0G LABS | Active🟢</h4>
+        <h4>Farcaster | Active🟢</h4>
         <ul>
-            <li><a href="#">Explorer link</a></li>
-            <li><a href="#">Docs link</a></li>
+            <li><a href="#">Docs link]</a></li>
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
@@ -28,16 +27,14 @@ Good afternoon, everyone. Now I will tell you about a young and promising, but o
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <h4>Initia | Inactive🔘</h4>
+        <h4>Tari | Active🟢</h4>
         <ul>
-            <li><a href="#">Explorer link</a></li>
             <li><a href="#">Docs link</a></li>
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <h4>Entangle | Active🟢</h4>
+        <h4>Hemi | Active🟢</h4>
         <ul>
-            <li><a href="#">Explorer link</a></li>
             <li><a href="#">Docs link</a></li>
         </ul>
     </div>
@@ -49,13 +46,13 @@ Good afternoon, everyone. Now I will tell you about a young and promising, but o
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <h4>Pryzm | Inactive🔘</h4>
+        <h4>Empower | Inactive🔘</h4>
         <ul>
             <li><a href="#">Explorer link</a></li>
         </ul>
     </div>
     <div style="flex: 1; padding: 10px;">
-        <h4>Artela | Inactive🔘</h4>
+        <h4>Fuel | Inactive🔘</h4>
         <ul>
             <li><a href="#">Explorer link</a></li>
         </ul>
